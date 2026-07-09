@@ -181,17 +181,37 @@ Diwali_Sales_Analysis.ipynb
 
 ---
 
-## 📁 Project Structure
+## 📂 Project Structure
 
-```
-Diwali-Sales-Analysis/
+```text
+diwali-sales-analysis
 │
-├── Diwali_Sales_Analysis.ipynb
-├── Diwali Sales Data.csv
-└── README.md
- 
+├── dataset/
+│   └── Diwali Sales Data.csv
+│
+├── notebook/
+│   ├── Diwali_Sales_Analysis1.ipynb
+│   └── Final_Diwali_Sales_Analysis.ipynb
+│
+├── images/
+│   ├── Customers by Age Group and Gender.png
+│   ├── Distribution of Customers by Marital Status.png
+│   ├── Distribution of Customers by Occupation.png
+│   ├── Distribution of Orders by Product Category.png
+│   ├── gender_count.png
+│   ├── Top 10 Most Sold Products.png
+│   ├── Top 10 Product Categories by Total Sales.png
+│   ├── Top 10 Products by Number of Orders.png
+│   ├── Top 10 States by Number of Orders.png
+│   ├── Top 10 States by Total Sales Amount.png
+│   ├── Total Sales Amount by Age Group.png
+│   ├── Total Sales Amount by Gender.png
+│   ├── Total Sales Amount by Occupation.png   
+│   └── Total Sales by Marital Status and Gender
+│
+├── README.md
+└── .git
 ```
-
 ---
 
 ## ⭐ Future Improvements
